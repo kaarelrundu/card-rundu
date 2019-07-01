@@ -63,8 +63,8 @@ img.profile-pic {
 	flex-shrink: 1;
 	margin: 0;
 	padding: 0.25rem;
-	max-width: 10%;
-	max-height: 10%;
+	max-width: 30%;
+	max-height: 30%;
 	overflow: auto;
 }
 
