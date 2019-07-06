@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Annus;Mihkel;;;
-FN: Mihkel Annus
-ORG:PLYKE;
-TITLE:Head of development
-EMAIL;type=INTERNET;type=WORK;type=pref:mihkel_annus@icloud.com
-TEL;type=WORK;type=VOICE:+37253013535
-item1.ADR;type=WORK;type=pref:;;Telliskivi 60a/5;;;;Tallinn
+N:Rundu;Kaarel;;;
+FN: Kaarel Rundu
+ORG:Tallinna Saksa Gümnaasium;
+TITLE:direktor
+EMAIL;type=INTERNET;type=WORK;type=pref:direktor@saksa.tln.edu.ee
+TEL;type=WORK;type=VOICE:+37256910428
+item1.ADR;type=WORK;type=pref:;;J. Sütiste tee 20, 13411;;;;Tallinn
 item1.X-ABADR:sg
-item2.URL;type=pref:www.facebook.com/plyke.of
+item2.URL;type=pref:www.saksa.tln.edu.ee
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
